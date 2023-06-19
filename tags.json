@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Cloud",
+        "description": "",
+        "slug": "cloud"
+    },
+    {
+        "id": 2,
+        "name": "Headless",
+        "description": "",
+        "slug": "headless"
+    },
+    {
+        "id": 3,
+        "name": "CMS",
+        "description": "",
+        "slug": "cms"
+    },
+    {
+        "id": 4,
+        "name": "CSS",
+        "description": "",
+        "slug": "css"
+    },
+    {
+        "id": 5,
+        "name": "JavaScript",
+        "description": "All posts tagged in JS",
+        "slug": "js"
+    }
+]

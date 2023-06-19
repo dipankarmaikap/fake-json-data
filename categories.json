@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "description": "All my posts related to Web Development",
+        "slug": "web-development"
+    },
+    {
+        "id": 2,
+        "name": "SEO",
+        "description": "",
+        "slug": "seo"
+    },
+    {
+        "id": 3,
+        "name": "Personal",
+        "description": "",
+        "slug": "personal"
+    },
+    {
+        "id": 4,
+        "name": "Travel",
+        "description": "",
+        "slug": "travel"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Dipankar Maikap",
+        "description": "[Dipankar](https://dipankarmaikap.com/) is a **Developer Relations Engineer at Storyblok**. He is a Frontend Developer, and **NextJS** + **TailwindCSS** are his weapons of choice. He also likes to write about **web development** and **javascript**.",
+        "slug": "dipankarmaikap",
+        "avatar_url": "https://dipankarmaikap.com/resume/assets/My-Profile-Picture.png",
+        "links": [
+            {
+                "name": "Website",
+                "url": "https://dipankarmaikap.com/"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/dipankarmaikap"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/maikap_dipankar"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Manuel Schröder",
+        "description": "[Manuel](https://manuelschroeder.dev/) is a **front-end engineer** who loves crafting beautiful and fast websites. International Relations graduate turned **WordPress** expert, he ultimately developed a passion for the **Jamstack**. His favorite technologies include **Vue**, **Astro**, **Tailwind**, and **Storyblok**. These days, Manuel works as a **Developer Relations Engineer at Storyblok**.",
+        "slug": "manuelschroeder",
+        "avatar_url": "https://a.storyblok.com/f/173811/1200x831/1d9224f146/manuel.jpg",
+        "links": [
+            {
+                "name": "Website",
+                "url": "https://manuelschroeder.dev/"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/manuelschroederdev"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/manuschroeder"
+            }
+        ]
+    }
+]
